@@ -1,2 +1,1 @@
-# Project1.github.io
-Project 1
+# covid-group-project.github.io
