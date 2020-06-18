@@ -1,6 +1,6 @@
 Project Name: Covid-19 Tracker
 
-Description: Covid-19 tracker is an application 
+Description: Covid-19 tracker is an application designed to track the progress of the pandemic, by Country, historical progress heat map, and latest news related the pandemic. 
 
 Technologies: Covid-19 tracker uses HTML, SCC, Bootstrap, Various Public API’s to Covid-19 data and News articles, as well as Covid-19 spread history in the form of a Heat map.
 
